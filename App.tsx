@@ -107,7 +107,7 @@ export default function App() {
           </TouchableOpacity>
         </View>
       </View>
-      <StatusBar barStyle={"default"} />
+      <StatusBar barStyle={"light-content"} backgroundColor={"rgba(214, 40, 40, 0.9)"} />
     </>
   );
 }
