@@ -1,19 +1,19 @@
 <h1 align="center" id="top">Todo React Native App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/karthikeyanselvam18/todo-list-app?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/karthikeyanselvam18/todo-react-native-app?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/karthikeyanselvam18/todo-list-app?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/karthikeyanselvam18/todo-react-native-app?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/karthikeyanselvam18/todo-list-app?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/karthikeyanselvam18/todo-react-native-app?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/karthikeyanselvam18/todo-list-app?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/karthikeyanselvam18/todo-react-native-app?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/karthikeyanselvam18/todo-list-app?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/karthikeyanselvam18/todo-react-native-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/karthikeyanselvam18/todo-list-app?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/karthikeyanselvam18/todo-react-native-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/karthikeyanselvam18/todo-list-app?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/karthikeyanselvam18/todo-react-native-app?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -33,10 +33,9 @@
   <a href="https://github.com/karthikeyanselvam18" target="_blank">Author</a>
 </p>
 
-## 🌐 Live ##
+## 🌐 Finalized Apk file ##
 
-Click here to see <a href="https://ks18-todo.netlify.app/" target="_blank">live page</a> 
-
+Click here to download <a href="https://github.com/karthikeyanselvam18/todo-react-native-app/tree/master/binaries" target="_blank">the apk</a>
 ## :dart: About
 
 Our todo list app, built with React Native Expo, offers a streamlined way to manage tasks effectively on your Android device. Enjoy intuitive features like adding, deleting, and marking tasks as finished, optimized for touch interaction. With a responsive design tailored for mobile devices, customizable options, and accessibility features, staying organized has never been easier on Android.
